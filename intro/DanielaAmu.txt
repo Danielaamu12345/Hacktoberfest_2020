@@ -1,0 +1,11 @@
+< p  align = " center " > 
+< img  src = " img/DanielaAmu.png" altura = " 400 " >
+
+< h1  align = " center " > Daniela Amu </ h1 >
+
+< h2  align = " center " > Estudiante </ h2 >
+
+< P  align = ' centro ' > 
+  < un  href = " danielaamu7@gmail.com " > < img  altura =" 50 " src =" img / gmail.png prima = true? " > </ A > & nbsp; & nbsp;
+</ p > 
+</ p >
