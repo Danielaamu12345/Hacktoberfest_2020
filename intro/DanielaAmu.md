@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/daniamu.PNG" height="400">
+<img src="img/daniamu.png" height="400">
 
 <h1 align="center">Daniela Amu </h1>
 
